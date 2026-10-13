@@ -1,5 +1,0 @@
-数据来源：Oxford Visual Geometry Group, Affine Covariant Features
-https://www.robots.ox.ac.uk/~vgg/research/affine/
-K. Mikolajczyk et al., A comparison of affine region detectors, IJCV 65(1/2):43-72, 2005.
-本文件夹含 graf(img1,3,4,5)、bark(img1,4,6)、leuven(img1,6) 共 9 张原图（PPM 转存为 PNG，像素未改动）
-以及官方真值单应矩阵 *_H1toN.txt（把图1中的点映射到图N）。
