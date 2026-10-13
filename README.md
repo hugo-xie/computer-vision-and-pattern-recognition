@@ -2,6 +2,10 @@
 
 计算机视觉课程资料与实践代码。
 
+## 课程Slides
+
+本节课程相关slides在百度网盘中：
+链接: https://pan.baidu.com/s/1Q-_XBwHNl9iZMB1Xp6gJww 提取码: 1342 
 ## 内容
 
 - `Practice/basic-python-cv/01_Python图像处理实践课.ipynb`：主版本，涵盖 OpenCV、Pillow、SciPy、NumPy 和 Matplotlib 的基础图像处理实践。
