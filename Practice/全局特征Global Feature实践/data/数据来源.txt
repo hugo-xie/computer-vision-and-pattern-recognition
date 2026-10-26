@@ -1,0 +1,7 @@
+数据来源（仅供教学使用）
+1. flowers/：Oxford 17 Category Flower Dataset（M.-E. Nilsback & A. Zisserman, CVPR 2006）
+   https://www.robots.ox.ac.uk/~vgg/data/flowers/17/
+   选取 sunflower / dandelion / bluebell / tigerlily / snowdrop / fritillary 6 类，每类 20 张，长边缩放到 240 像素。
+2. textures/：USC-SIPI Image Database, Rotated Textures（Brodatz 纹理，同一纹理在不同旋转角度下重新拍摄）
+   https://sipi.usc.edu/database/
+   13 种纹理 × 4 个角度（0°、30°、60°、90°），512×512 灰度，原样转存为 PNG。
