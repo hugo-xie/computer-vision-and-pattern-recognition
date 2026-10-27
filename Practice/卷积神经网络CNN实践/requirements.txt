@@ -1,0 +1,7 @@
+# 先按 README 为自己的平台安装匹配的 torch / torchvision，再安装本文件。
+# 不在此写入 CUDA 软件源，避免在 CPU、NVIDIA 和 Mac 之间装错构建。
+# numpy<2 兼容 README 中 Intel Mac 使用的旧版 PyTorch。
+numpy>=1.24,<2
+matplotlib>=3.7,<4
+jupyterlab>=4,<5
+ipykernel>=6.25,<7
