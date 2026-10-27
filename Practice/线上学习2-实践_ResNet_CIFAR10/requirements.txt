@@ -1,0 +1,7 @@
+# 复用 cv-cnn 环境，已有依赖无需重复安装。
+# torch 与 torchvision 沿用现有环境中适配 CPU、CUDA 或 MPS 的版本。
+# 此处仅记录通用依赖，保留 numpy<2 以兼容已有旧版环境。
+numpy>=1.24,<2
+matplotlib>=3.7,<4
+jupyterlab>=4,<5
+ipykernel>=6.25,<7
