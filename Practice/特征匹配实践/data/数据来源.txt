@@ -1,0 +1,7 @@
+数据来源（仅供教学使用）
+1. graf_*、boat_*：Oxford Affine Covariant Features 数据集（Mikolajczyk et al., IJCV 2005）
+   https://www.robots.ox.ac.uk/~vgg/research/affine/
+   graf（涂鸦墙，视角变化）图 1、2、3；boat（港口，缩放 + 旋转）图 1、3、5；
+   *_H1toN.txt 为官方真值单应矩阵：把图 1 中的点映射到图 N。原图像素未改动，转存为 PNG。
+2. pano_left.jpg、pano_right.jpg：OpenCV 官方测试数据 opencv_extra/testdata/stitching 中的 boat1.jpg、boat2.jpg
+   （圣彼得堡涅瓦河畔，手持相机转动拍摄的一对有重叠的照片），缩放到 1200×800。无真值。
